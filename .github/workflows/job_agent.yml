@@ -1,0 +1,52 @@
+name: job-agent
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"    # empresas priority
+    - cron: "2,32 * * * *"   # todas las empresas
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: "Marcar todo como visto sin avisar (solo primera vez, opcional)"
+        type: boolean
+        default: false
+
+concurrency:
+  group: job-agent
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          TIER=all
+          if [ "${{ github.event.schedule }}" = "*/5 * * * *" ]; then TIER=priority; fi
+          EXTRA=""
+          if [ "${{ inputs.seed }}" = "true" ]; then EXTRA="--seed"; fi
+          python job_agent.py --tier $TIER $EXTRA
+
+      - name: Save state
+        run: |
+          git config user.name "job-agent"
+          git config user.email "job-agent@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "update state" && git pull --rebase && git push)
