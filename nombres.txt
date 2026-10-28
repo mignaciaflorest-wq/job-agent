@@ -1,0 +1,100 @@
+Apple
+Microsoft
+Google
+Amazon
+Meta
+Nvidia
+Tesla
+Oracle
+Salesforce
+Adobe
+Intel
+IBM
+Cisco
+Qualcomm
+AMD
+Broadcom
+Dell Technologies
+HP
+Netflix
+Uber
+Airbnb
+PayPal
+Intuit
+ServiceNow
+Workday
+Snowflake
+Palantir
+Block
+Stripe
+DoorDash
+Lyft
+Pinterest
+Snap
+Zoom
+Dropbox
+Twilio
+eBay
+Etsy
+Booking Holdings
+Expedia
+Roblox
+Electronic Arts
+Autodesk
+Okta
+Datadog
+Cloudflare
+CrowdStrike
+Palo Alto Networks
+Instacart
+Robinhood
+Coinbase
+Reddit
+Zillow
+Wayfair
+Chewy
+Walmart
+Costco
+Target
+Home Depot
+Lowes
+Kroger
+Procter and Gamble
+Coca-Cola
+PepsiCo
+Mondelez
+Kraft Heinz
+General Mills
+Colgate-Palmolive
+Kimberly-Clark
+Estee Lauder
+Nike
+Starbucks
+McDonalds
+Chipotle
+Yum Brands
+Marriott
+Hilton
+Disney
+Ralph Lauren
+Tapestry
+Levi Strauss
+Gap
+TJX
+Best Buy
+Dollar General
+Ulta Beauty
+Under Armour
+Hershey
+Campbells
+Conagra Brands
+Clorox
+Keurig Dr Pepper
+Monster Beverage
+Mattel
+Hasbro
+Peloton
+Warby Parker
+Sweetgreen
+Kenvue
+Albertsons
