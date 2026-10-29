@@ -1559,3 +1559,7 @@ greenhouse:stripe:8203201
 greenhouse:stripe:8332821
 greenhouse:pinterest:8331501
 greenhouse:stripe:8286685
+greenhouse:pinterest:8268338
+greenhouse:pinterest:7685466
+greenhouse:pinterest:8046838
+ashby:notion:b58ad3ae-5fdd-4a9f-9ef5-0c0f3ebce147
