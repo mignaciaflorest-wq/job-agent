@@ -1571,3 +1571,4 @@ greenhouse:stripe:8180254
 greenhouse:figma:6231582004
 greenhouse:pinterest:8234538
 ashby:notion:30a5c739-185f-4a55-8a63-85974d687444
+greenhouse:stripe:8212672
