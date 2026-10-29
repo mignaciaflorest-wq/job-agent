@@ -1572,3 +1572,7 @@ greenhouse:figma:6231582004
 greenhouse:pinterest:8234538
 ashby:notion:30a5c739-185f-4a55-8a63-85974d687444
 greenhouse:stripe:8212672
+greenhouse:airbnb:8334926
+greenhouse:airbnb:8334880
+greenhouse:stripe:8326189
+greenhouse:stripe:8326191
