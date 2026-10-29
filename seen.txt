@@ -1583,3 +1583,6 @@ greenhouse:airbnb:8325039
 greenhouse:stripe:8260982
 greenhouse:stripe:8329743
 greenhouse:airbnb:8329389
+greenhouse:stripe:8146271
+greenhouse:pinterest:8209014
+ashby:notion:dccc45ce-b143-4e30-bba7-28f1cfd414ae
