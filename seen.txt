@@ -1608,3 +1608,14 @@ greenhouse:airbnb:8336590
 greenhouse:stripe:8336819
 greenhouse:airbnb:8336893
 greenhouse:airbnb:8336959
+greenhouse:stripe:8114458
+greenhouse:stripe:8330131
+greenhouse:stripe:8333074
+greenhouse:stripe:8333122
+greenhouse:stripe:8328664
+greenhouse:stripe:8328662
+greenhouse:instacart:8336857
+greenhouse:instacart:8336883
+greenhouse:pinterest:8325601
+ashby:notion:ccce61b3-ad12-4ef6-a4b3-b8169b7bbd99
+ashby:notion:b3d0eabd-b860-4944-a90f-15519385cb3e
