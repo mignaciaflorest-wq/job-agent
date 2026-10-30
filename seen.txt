@@ -1619,3 +1619,4 @@ greenhouse:instacart:8336883
 greenhouse:pinterest:8325601
 ashby:notion:ccce61b3-ad12-4ef6-a4b3-b8169b7bbd99
 ashby:notion:b3d0eabd-b860-4944-a90f-15519385cb3e
+greenhouse:stripe:8335758
