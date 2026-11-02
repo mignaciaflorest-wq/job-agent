@@ -1661,3 +1661,5 @@ greenhouse:instacart:8080532
 greenhouse:figma:6237654004
 greenhouse:airbnb:8334730
 greenhouse:airbnb:8337480
+greenhouse:stripe:8319823
+greenhouse:stripe:8167556
