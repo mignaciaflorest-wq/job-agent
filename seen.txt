@@ -1646,3 +1646,5 @@ greenhouse:stripe:7975721
 greenhouse:pinterest:8016646
 greenhouse:airbnb:8345532
 greenhouse:stripe:8319488
+greenhouse:stripe:8335426
+greenhouse:figma:6224085004
