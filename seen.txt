@@ -1682,3 +1682,5 @@ greenhouse:instacart:8347895
 greenhouse:instacart:8347897
 greenhouse:figma:6134770004
 greenhouse:pinterest:8346364
+greenhouse:airbnb:8125981
+greenhouse:stripe:7997555
