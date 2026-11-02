@@ -1670,3 +1670,4 @@ greenhouse:airbnb:8327789
 greenhouse:airbnb:8335541
 greenhouse:airbnb:8334372
 greenhouse:stripe:8346417
+greenhouse:pinterest:8279563
