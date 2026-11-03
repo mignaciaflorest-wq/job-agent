@@ -1692,3 +1692,5 @@ greenhouse:figma:6239628004
 greenhouse:figma:6230562004
 greenhouse:airbnb:8349121
 greenhouse:figma:6236341004
+greenhouse:stripe:8155002
+greenhouse:stripe:8261010
