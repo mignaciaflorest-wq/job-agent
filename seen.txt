@@ -1698,3 +1698,5 @@ greenhouse:stripe:8328323
 greenhouse:pinterest:8268316
 greenhouse:stripe:8315954
 greenhouse:pinterest:8268318
+greenhouse:duolingo:8927565002
+ashby:notion:2e095dde-06cb-4fd2-a273-9144624400c1
