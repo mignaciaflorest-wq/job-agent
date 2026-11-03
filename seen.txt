@@ -1700,3 +1700,9 @@ greenhouse:stripe:8315954
 greenhouse:pinterest:8268318
 greenhouse:duolingo:8927565002
 ashby:notion:2e095dde-06cb-4fd2-a273-9144624400c1
+greenhouse:airbnb:8349633
+greenhouse:airbnb:8349571
+greenhouse:stripe:8337362
+greenhouse:stripe:6570259
+lever:spotify:c2e4daa7-510f-4a30-ad85-a043481d85ac
+lever:spotify:9899871a-4307-4367-9f74-039569d7a650
