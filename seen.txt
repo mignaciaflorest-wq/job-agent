@@ -1709,3 +1709,7 @@ lever:spotify:9899871a-4307-4367-9f74-039569d7a650
 greenhouse:stripe:8322582
 greenhouse:airbnb:8334731
 greenhouse:stripe:8210218
+greenhouse:stripe:8301936
+greenhouse:stripe:8315966
+greenhouse:figma:6240900004
+greenhouse:pinterest:8268342
