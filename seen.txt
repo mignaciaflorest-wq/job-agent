@@ -1720,3 +1720,6 @@ greenhouse:stripe:8189015
 greenhouse:airbnb:8348207
 greenhouse:airbnb:8351417
 greenhouse:airbnb:8304030
+greenhouse:airbnb:8349111
+greenhouse:stripe:8319831
+greenhouse:stripe:8352045
