@@ -1769,3 +1769,7 @@ greenhouse:airbnb:8349065
 greenhouse:stripe:8336699
 greenhouse:stripe:8284589
 greenhouse:stripe:8336711
+lever:spotify:4c0aa107-bdb7-4061-b2c7-be616e059340
+ashby:notion:5a7fce72-6fbd-4ccd-b559-db5ca2578361
+ashby:notion:6c53f83d-c1c2-4e62-bb4a-8532838409da
+ashby:notion:021f4891-c95f-41de-b8fc-66d285f57851
