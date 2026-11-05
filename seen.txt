@@ -1759,3 +1759,4 @@ ashby:notion:f524ef6b-6a8a-4d73-b7ff-eac85bd6c887
 greenhouse:airbnb:8354382
 greenhouse:stripe:8317306
 ashby:notion:a356be47-4b45-41c8-9fc9-9e3754d337bc
+greenhouse:stripe:8172499
