@@ -1820,3 +1820,6 @@ ashby:notion:a13fa271-f819-4421-b5fa-a9777672758e
 greenhouse:airbnb:7763610
 greenhouse:stripe:8325023
 greenhouse:stripe:8350923
+greenhouse:figma:6242561004
+ashby:notion:499cda6b-522b-4596-8a4c-30efbb1e6b2a
+ashby:notion:10760f33-dd07-4343-ad30-3f26db7f8eee
