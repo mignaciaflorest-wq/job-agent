@@ -1797,3 +1797,6 @@ greenhouse:stripe:8354566
 lever:spotify:f1a0bdaa-a6c6-4020-bdd3-4cb195c40747
 greenhouse:stripe:8325009
 greenhouse:instacart:8356881
+greenhouse:airbnb:8220091
+greenhouse:stripe:8357043
+greenhouse:figma:6243897004
