@@ -1817,3 +1817,6 @@ ashby:notion:d6298237-6607-4d2b-956b-1ca6b20a12c4
 ashby:notion:11ea8ad6-b380-4041-a4cc-40eeccddffef
 ashby:notion:8109628c-ff17-4e90-b388-d159dc1c53ca
 ashby:notion:a13fa271-f819-4421-b5fa-a9777672758e
+greenhouse:airbnb:7763610
+greenhouse:stripe:8325023
+greenhouse:stripe:8350923
