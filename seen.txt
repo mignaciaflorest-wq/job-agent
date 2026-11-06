@@ -1825,3 +1825,6 @@ ashby:notion:499cda6b-522b-4596-8a4c-30efbb1e6b2a
 ashby:notion:10760f33-dd07-4343-ad30-3f26db7f8eee
 greenhouse:stripe:8348327
 ashby:notion:73b0e05e-317f-4f84-8fb2-58dc8c3790a6
+greenhouse:instacart:8359777
+greenhouse:instacart:8359775
+greenhouse:duolingo:8928712002
