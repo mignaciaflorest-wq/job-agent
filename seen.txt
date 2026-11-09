@@ -1850,3 +1850,5 @@ greenhouse:figma:6242701004
 lever:spotify:ea20d13d-aedc-4d02-a4aa-b6d6b1400aed
 greenhouse:stripe:8354772
 greenhouse:stripe:8048266
+greenhouse:figma:6232528004
+ashby:notion:06c2599d-4dd5-4f97-843f-7194b546f042
