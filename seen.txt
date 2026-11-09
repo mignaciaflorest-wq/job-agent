@@ -1848,3 +1848,5 @@ greenhouse:airbnb:8364499
 greenhouse:stripe:8348469
 greenhouse:figma:6242701004
 lever:spotify:ea20d13d-aedc-4d02-a4aa-b6d6b1400aed
+greenhouse:stripe:8354772
+greenhouse:stripe:8048266
