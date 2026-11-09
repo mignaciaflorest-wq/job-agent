@@ -1871,3 +1871,6 @@ greenhouse:instacart:8368675
 greenhouse:instacart:8368677
 greenhouse:pinterest:8331469
 greenhouse:stripe:8368260
+greenhouse:stripe:8248092
+greenhouse:stripe:8283778
+greenhouse:pinterest:8286844
