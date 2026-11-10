@@ -1911,3 +1911,4 @@ lever:spotify:b9533f31-7bff-43f6-aaf0-60003f017d88
 greenhouse:stripe:8293768
 greenhouse:instacart:8304832
 greenhouse:figma:6250826004
+greenhouse:stripe:8353949
