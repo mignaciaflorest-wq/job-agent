@@ -1903,3 +1903,8 @@ lever:spotify:1bbaf909-5ff3-4ed6-87ca-f7ff007a169c
 ashby:notion:ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9
 greenhouse:stripe:8319461
 greenhouse:stripe:8315956
+greenhouse:airbnb:8374537
+greenhouse:instacart:8374809
+greenhouse:pinterest:8230775
+lever:spotify:01b41b49-7d43-4933-9ba7-06ebe0a2a749
+lever:spotify:b9533f31-7bff-43f6-aaf0-60003f017d88
