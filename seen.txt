@@ -1929,3 +1929,11 @@ greenhouse:stripe:8364868
 greenhouse:stripe:8205126
 greenhouse:airbnb:8378197
 lever:spotify:a9d581f9-1361-4227-b230-94a0d6ffdef4
+greenhouse:airbnb:8376005
+greenhouse:airbnb:8375962
+greenhouse:airbnb:8376087
+greenhouse:airbnb:8376124
+greenhouse:airbnb:8372325
+greenhouse:airbnb:8372095
+greenhouse:airbnb:8372424
+greenhouse:stripe:8350430
