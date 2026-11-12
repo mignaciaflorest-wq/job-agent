@@ -1972,3 +1972,7 @@ greenhouse:airbnb:8383070
 greenhouse:airbnb:8383090
 greenhouse:pinterest:8347744
 greenhouse:pinterest:8328631
+greenhouse:airbnb:8381807
+greenhouse:stripe:8383466
+greenhouse:instacart:8383333
+greenhouse:instacart:8383331
