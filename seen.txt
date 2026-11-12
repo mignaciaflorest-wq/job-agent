@@ -1961,3 +1961,6 @@ greenhouse:airbnb:8194590
 ashby:notion:d65659d6-b423-4dcd-bf55-9ae4a5ba7cb4
 ashby:notion:133463c5-400b-4ba9-8563-42296c9b37a6
 ashby:notion:31c2d810-ddb3-40f6-b883-c1c7f999ac69
+greenhouse:airbnb:7904321
+greenhouse:stripe:8265139
+greenhouse:stripe:8248102
