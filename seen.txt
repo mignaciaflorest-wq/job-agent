@@ -1976,3 +1976,7 @@ greenhouse:airbnb:8381807
 greenhouse:stripe:8383466
 greenhouse:instacart:8383333
 greenhouse:instacart:8383331
+greenhouse:stripe:8281536
+greenhouse:instacart:8383513
+greenhouse:figma:6238480004
+greenhouse:figma:6253326004
