@@ -1964,3 +1964,4 @@ ashby:notion:31c2d810-ddb3-40f6-b883-c1c7f999ac69
 greenhouse:airbnb:7904321
 greenhouse:stripe:8265139
 greenhouse:stripe:8248102
+greenhouse:pinterest:8081002
