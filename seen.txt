@@ -1970,3 +1970,5 @@ greenhouse:airbnb:8382875
 greenhouse:airbnb:8383084
 greenhouse:airbnb:8383070
 greenhouse:airbnb:8383090
+greenhouse:pinterest:8347744
+greenhouse:pinterest:8328631
