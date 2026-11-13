@@ -2019,3 +2019,5 @@ ashby:notion:20490f51-73af-402e-b25c-47ee10b9b055
 ashby:notion:4703011f-01cf-4561-8a5a-40bd8e655264
 lever:spotify:ac7b1bb0-2300-47a4-8d9d-f80e9392bd19
 lever:spotify:e46588fa-d5c3-4ef9-b7eb-e745ee568eed
+greenhouse:pinterest:8201668
+lever:spotify:d9e57c3c-1c0a-483b-a783-6d1c9f2ce057
