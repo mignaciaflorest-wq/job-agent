@@ -2034,3 +2034,5 @@ greenhouse:duolingo:8939678002
 greenhouse:stripe:8382002
 greenhouse:instacart:8386574
 greenhouse:duolingo:8943317002
+greenhouse:stripe:8382000
+greenhouse:pinterest:8356287
