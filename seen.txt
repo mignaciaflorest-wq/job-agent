@@ -2024,3 +2024,9 @@ lever:spotify:d9e57c3c-1c0a-483b-a783-6d1c9f2ce057
 greenhouse:stripe:8301256
 greenhouse:figma:6252853004
 ashby:notion:7a044182-7787-47cd-b8eb-18ebf5642ed4
+greenhouse:airbnb:8383913
+greenhouse:airbnb:8386083
+greenhouse:airbnb:8386065
+greenhouse:stripe:8334539
+greenhouse:stripe:8334556
+greenhouse:duolingo:8942115002
