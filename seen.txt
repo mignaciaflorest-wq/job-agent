@@ -2037,3 +2037,4 @@ greenhouse:duolingo:8943317002
 greenhouse:stripe:8382000
 greenhouse:pinterest:8356287
 greenhouse:airbnb:7453190
+greenhouse:stripe:5601881
