@@ -2022,3 +2022,5 @@ lever:spotify:e46588fa-d5c3-4ef9-b7eb-e745ee568eed
 greenhouse:pinterest:8201668
 lever:spotify:d9e57c3c-1c0a-483b-a783-6d1c9f2ce057
 greenhouse:stripe:8301256
+greenhouse:figma:6252853004
+ashby:notion:7a044182-7787-47cd-b8eb-18ebf5642ed4
