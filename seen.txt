@@ -2021,3 +2021,4 @@ lever:spotify:ac7b1bb0-2300-47a4-8d9d-f80e9392bd19
 lever:spotify:e46588fa-d5c3-4ef9-b7eb-e745ee568eed
 greenhouse:pinterest:8201668
 lever:spotify:d9e57c3c-1c0a-483b-a783-6d1c9f2ce057
+greenhouse:stripe:8301256
