@@ -2014,3 +2014,6 @@ greenhouse:airbnb:8326765
 greenhouse:stripe:8338845
 greenhouse:stripe:8338839
 greenhouse:stripe:8368656
+lever:spotify:b459a23c-18bd-43f6-a8fa-2a3165c8dac7
+ashby:notion:20490f51-73af-402e-b25c-47ee10b9b055
+ashby:notion:4703011f-01cf-4561-8a5a-40bd8e655264
