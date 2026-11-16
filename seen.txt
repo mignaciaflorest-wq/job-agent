@@ -2054,3 +2054,5 @@ lever:spotify:2c51f265-b95b-4b47-b467-e0fdc7744b5c
 lever:spotify:1a1c0754-29b1-4651-a399-3c078866b9d0
 greenhouse:stripe:8360332
 greenhouse:stripe:8393708
+greenhouse:stripe:8393939
+greenhouse:stripe:8318719
