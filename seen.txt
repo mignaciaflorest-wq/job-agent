@@ -2083,3 +2083,5 @@ greenhouse:stripe:8336296
 greenhouse:stripe:8241299
 greenhouse:stripe:7742552
 greenhouse:stripe:8393866
+greenhouse:pinterest:7987854
+ashby:notion:f5f95c45-7a2b-4abd-9875-f64dfbc89342
