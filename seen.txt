@@ -2101,3 +2101,6 @@ greenhouse:pinterest:8395884
 greenhouse:pinterest:7638564
 ashby:notion:b741addb-c38b-4b62-9786-ea86a30953d2
 ashby:notion:da9a9a45-10e3-4c6a-916f-f89ee4cf29a4
+greenhouse:stripe:8376777
+greenhouse:stripe:8190038
+greenhouse:pinterest:8396724
