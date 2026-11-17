@@ -2081,3 +2081,5 @@ greenhouse:airbnb:8352713
 greenhouse:stripe:8328114
 greenhouse:stripe:8336296
 greenhouse:stripe:8241299
+greenhouse:stripe:7742552
+greenhouse:stripe:8393866
