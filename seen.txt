@@ -2112,3 +2112,4 @@ greenhouse:figma:6253947004
 lever:spotify:77d3435e-569e-4644-876d-afc960da8d0a
 greenhouse:airbnb:8351513
 greenhouse:airbnb:8360478
+greenhouse:stripe:8352487
