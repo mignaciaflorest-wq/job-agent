@@ -2126,3 +2126,6 @@ greenhouse:figma:6263971004
 greenhouse:stripe:8392755
 greenhouse:stripe:8393436
 greenhouse:stripe:8275259
+greenhouse:stripe:7919030
+greenhouse:stripe:7917880
+lever:spotify:bcd66391-12eb-4b15-b938-2b5b844e4f2b
