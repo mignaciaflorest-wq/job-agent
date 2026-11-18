@@ -2141,3 +2141,5 @@ lever:spotify:436046d9-6ac2-4d0f-92ee-a36d957cb566
 greenhouse:airbnb:8014904
 greenhouse:stripe:8375966
 greenhouse:stripe:8374754
+lever:spotify:5ddb2fa1-4494-48a9-84c0-b646da91edb8
+ashby:notion:a8143379-6693-4046-b8cf-1528178d0f0f
