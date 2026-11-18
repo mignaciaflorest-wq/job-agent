@@ -2118,3 +2118,4 @@ greenhouse:figma:6263992004
 greenhouse:figma:6263994004
 greenhouse:pinterest:7678354
 lever:spotify:6ddd19d7-b4ed-4a1f-b8e9-3e6e55066d4b
+greenhouse:stripe:8358823
