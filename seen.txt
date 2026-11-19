@@ -2169,3 +2169,4 @@ greenhouse:airbnb:8402949
 greenhouse:airbnb:8403001
 greenhouse:stripe:8165265
 greenhouse:instacart:8403432
+lever:spotify:fb3f185c-961c-4b7b-a568-b42a37d66ead
