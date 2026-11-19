@@ -2146,3 +2146,4 @@ ashby:notion:a8143379-6693-4046-b8cf-1528178d0f0f
 greenhouse:instacart:8400957
 greenhouse:instacart:8400955
 greenhouse:figma:6147761004
+greenhouse:stripe:8317310
