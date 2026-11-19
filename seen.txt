@@ -2152,3 +2152,6 @@ greenhouse:stripe:7901987
 greenhouse:duolingo:8951657002
 greenhouse:pinterest:8312674
 ashby:notion:0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f
+greenhouse:figma:6261239004
+greenhouse:pinterest:8346516
+lever:spotify:ced2c220-6b5c-4e74-8e06-37d50985097c
