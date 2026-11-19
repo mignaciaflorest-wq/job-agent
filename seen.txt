@@ -2147,3 +2147,4 @@ greenhouse:instacart:8400957
 greenhouse:instacart:8400955
 greenhouse:figma:6147761004
 greenhouse:stripe:8317310
+lever:spotify:22437625-9527-4e5a-a6d2-a114a889db90
