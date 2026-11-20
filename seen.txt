@@ -2212,3 +2212,5 @@ greenhouse:instacart:8407307
 greenhouse:instacart:8407369
 greenhouse:instacart:8407367
 greenhouse:pinterest:8356222
+greenhouse:figma:6266479004
+lever:spotify:a2f4ff98-1cdc-4529-a202-4119acfa722b
