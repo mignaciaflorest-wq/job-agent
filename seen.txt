@@ -2182,3 +2182,4 @@ greenhouse:stripe:8236540
 greenhouse:airbnb:8374427
 greenhouse:figma:6264943004
 ashby:notion:da3ccc9b-cbde-47c2-8c81-96d66c693a03
+greenhouse:stripe:8203649
