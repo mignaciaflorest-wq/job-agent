@@ -2230,3 +2230,7 @@ greenhouse:stripe:8411927
 greenhouse:figma:6265726004
 greenhouse:stripe:8411988
 greenhouse:stripe:7997359
+greenhouse:airbnb:8411254
+greenhouse:airbnb:8412312
+greenhouse:instacart:8412255
+greenhouse:pinterest:8368950
