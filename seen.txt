@@ -2224,3 +2224,5 @@ greenhouse:stripe:8175627
 greenhouse:stripe:8328106
 greenhouse:stripe:8332341
 greenhouse:stripe:8399913
+greenhouse:figma:6262341004
+ashby:notion:07ee080d-468c-4590-a82e-be806c3332d8
