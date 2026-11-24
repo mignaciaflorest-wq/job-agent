@@ -2259,3 +2259,4 @@ greenhouse:stripe:8175816
 greenhouse:stripe:8414532
 greenhouse:stripe:8397257
 lever:spotify:358dac9a-7d46-432e-a1f3-2660cbe26591
+greenhouse:duolingo:8960882002
