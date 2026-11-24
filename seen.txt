@@ -2263,3 +2263,6 @@ greenhouse:duolingo:8960882002
 greenhouse:stripe:8412983
 greenhouse:stripe:8412977
 lever:spotify:419c2f72-1e1f-4832-a375-7d19fba8cd6a
+greenhouse:stripe:8181036
+lever:spotify:529a1618-32b9-4619-b727-ae28ddf0dc61
+lever:spotify:3dee8969-3910-4624-a401-45222202522c
