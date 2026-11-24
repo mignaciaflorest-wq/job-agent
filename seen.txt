@@ -2262,3 +2262,4 @@ lever:spotify:358dac9a-7d46-432e-a1f3-2660cbe26591
 greenhouse:duolingo:8960882002
 greenhouse:stripe:8412983
 greenhouse:stripe:8412977
+lever:spotify:419c2f72-1e1f-4832-a375-7d19fba8cd6a
