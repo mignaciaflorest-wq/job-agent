@@ -2242,3 +2242,4 @@ greenhouse:instacart:8412535
 greenhouse:instacart:8412568
 greenhouse:stripe:8404667
 ashby:notion:881d1ece-c6a4-476d-b18d-d699627195e5
+greenhouse:stripe:7930343
