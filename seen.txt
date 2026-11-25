@@ -2289,3 +2289,5 @@ greenhouse:pinterest:8399210
 lever:spotify:dbf22fdf-5dd4-4a7e-9a2a-2438ca93790e
 greenhouse:stripe:8417785
 greenhouse:stripe:8417797
+greenhouse:instacart:8417827
+greenhouse:duolingo:8962924002
