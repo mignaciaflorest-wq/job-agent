@@ -2286,3 +2286,4 @@ greenhouse:stripe:8395417
 greenhouse:stripe:8397987
 greenhouse:stripe:8412981
 greenhouse:pinterest:8399210
+lever:spotify:dbf22fdf-5dd4-4a7e-9a2a-2438ca93790e
