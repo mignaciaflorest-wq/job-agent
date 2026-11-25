@@ -2277,3 +2277,4 @@ greenhouse:pinterest:8376163
 greenhouse:stripe:8411217
 greenhouse:airbnb:8225785
 ashby:notion:63f3e6dc-d03b-4c7d-a016-e7909e3466a0
+lever:spotify:71eb64a0-ce99-4166-8462-bad3901a967c
