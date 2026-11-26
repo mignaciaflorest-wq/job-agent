@@ -2297,3 +2297,4 @@ ashby:notion:939da8ac-3f55-4e23-8b13-ed4867a8f4e0
 ashby:notion:c777ed1e-e23f-4b76-bc21-039aaf06c1de
 greenhouse:airbnb:8360678
 greenhouse:pinterest:8410813
+lever:spotify:fea3133a-822a-43fa-b3a6-f37ef743f783
