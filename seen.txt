@@ -2302,3 +2302,5 @@ greenhouse:airbnb:8418573
 greenhouse:stripe:8417067
 greenhouse:airbnb:8417975
 greenhouse:airbnb:8417974
+greenhouse:stripe:8414067
+greenhouse:stripe:8419418
